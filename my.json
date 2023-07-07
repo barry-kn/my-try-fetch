@@ -1,0 +1,19 @@
+{
+  "cars": [
+    {
+      "name": "Car 1",
+      "description": "Description of Car 1",
+      "price": 10000
+    },
+    {
+      "name": "Car 2",
+      "description": "Description of Car 2",
+      "price": 15000
+    },
+    {
+      "name": "Car 3",
+      "description": "Description of Car 3",
+      "price": 20000
+    }
+  ]
+}
